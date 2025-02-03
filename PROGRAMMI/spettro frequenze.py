@@ -37,5 +37,5 @@ def fourier_spectrum(image_path):
     plt.show()
 
 # ---- ESEMPIO D'USO ----
-image_path = "immagine2.jpg"  # Sostituisci con il tuo file
+image_path = "immagine_S.jpg"  # Sostituisci con il tuo file
 fourier_spectrum(image_path)
