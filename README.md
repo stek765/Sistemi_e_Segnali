@@ -25,8 +25,26 @@ Per eseguire il progetto, è necessario installare le seguenti librerie Python:
 - - -
 
 ![GIF EQ](assets/EQ.gif)
+
+
+- - - -
 ![GIF CAMPIONAMENTO](assets/Campionamento.png)
-![GIF CAMPIONAMENTO](assets/Campionamento.png)
+
+
+
+- - - -
 ![GIF SPETTRO T](assets/Spettro_T.png)
+
+
+
+- - - -
 ![GIF SPETTRO S](assets/Spettro_S.png)
+
+
+
+- - - -
 ![GIF FASORI](assets/Fasori.gif)
+
+
+
+- - - -
