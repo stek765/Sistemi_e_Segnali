@@ -24,6 +24,15 @@ Per eseguire il progetto, è necessario installare le seguenti librerie Python:
 
 - - -
 
+![GIF EQ](assets/IDEA_GENERALE.JPG)
+
+- - - - 
+
+
+
+
+
+
 ![GIF EQ](assets/EQ.gif)
 
 
