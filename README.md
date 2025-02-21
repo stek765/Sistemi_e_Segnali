@@ -1,5 +1,5 @@
-# 📡 Sistemi e Segnali
-- - - - - - - - - - - -
+# 📡 Sistemi e Segnali ed Elaborazione Immagini
+- - - - - - - - - - - - - - - - - - - - - - - - -
 
 ## 📖 Introduzione
 > Una Repository che contiene appunti ed esperimenti sul mondo dei segnali, frequenze, immagini e filtri.
