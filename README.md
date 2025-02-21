@@ -1,4 +1,4 @@
-# 📡 Sistemi e Segnali ed Elaborazione Immagini
+# 📡 Sistemi, Segnali ed Elaborazione Immagini
 - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ## 📖 Introduzione
